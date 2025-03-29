@@ -33,7 +33,7 @@ azure-firewall-rdp/
 1-1. Azure CLI のインストール（まだの場合）
 https://docs.microsoft.com/ja-jp/cli/azure/install-azure-cli
 
-# macOS: brew update && brew install azure-cli
+macOS: brew update && brew install azure-cli
 
 1-2. Azure にログイン
 az login
